@@ -11,6 +11,6 @@ public class TestDemo1 {
 		
 		Demo d=new Demo();
 		int ans=d.add(20, 20);
-		assertEquals(400, ans);
+		assertEquals(100, ans);
 	}
 }
